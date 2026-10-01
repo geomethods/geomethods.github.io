@@ -4,3 +4,8 @@
 
 layout: single
 ---
+
+
+Welcome to The Geospatial Methods Crosswalk! This site (currently in development) provides the opportunity to compare geospatial workflows across multiple analytical platforms. 
+
+Please contact sam.oleary424@gmail.com for feedback and concerns
