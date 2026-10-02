@@ -11,6 +11,11 @@ main:
 docs:
   - title: "Home"
     url: /
+    children:
+      #- title: "Development Updates"
+      #  url: /dev_updates/
+      - title: "Update #1"
+        url: /dev_update/update-1/
   - title: "Workflow 1"
     children:
       - title: "Metadata"
