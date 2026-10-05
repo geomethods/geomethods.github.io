@@ -1,0 +1,28 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Workflows"
+    url: /workflows/
+    children:
+      - title: "Worflow #1"
+        url: docs/workflow-1/
+  - title: "Learn more"
+
+docs:
+  - title: "Home"
+    url: /
+    children:
+      #- title: "Development Updates"
+      #  url: /dev_updates/
+      - title: "Update #1"
+        url: /dev_update/update-1/
+  - title: "Workflow 1"
+    children:
+      - title: "Metadata"
+        url: docs/workflow-1/metadata/
+      - title: "Setting Things Up"
+        url: docs/workflow-1/setup/
+      - title: "Workflow site"
+        url: "https://geomethods.github.io/awr/"
+
+
