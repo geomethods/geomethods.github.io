@@ -29,6 +29,8 @@ github_username:  samoleary-portfolio
 minimal_mistakes_skin: "mint"
 repository: "geomethods/geomethods.github.io"
 permalink: /:categories/:title/
+include:
+  - _pages
 defaults:
   #_pages
   - scope:
@@ -65,6 +67,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
+
+jekyll-archives:
+  enabled: [tags]
+  layouts:
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
