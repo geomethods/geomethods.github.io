@@ -11,6 +11,6 @@ layout: single
 - `Spatial Reference System`: Specify the geographic or projected coordinate system for the study
 - `Temporal Coverage`: 2022
 - `Temporal Resolution`: 2022-2032
-- `Lineage`: Downloaded from the NH state geodata portal at https://new-hampshire-geodata-portal-1-nhgranit.hub.arcgis.com/datasets/new-hampshire-senate-district-boundaries-2022/explore?location=44.000000%2C-71.581250%2C8 
+- `Lineage`: Downloaded from the NH State GeoData portal at https://new-hampshire-geodata-portal-1-nhgranit.hub.arcgis.com/datasets/new-hampshire-senate-district-boundaries-2022/explore?location=44.000000%2C-71.581250%2C8 
 - `Distribution`: Available through the state of NH geodata portal
 - `Constraints`:  Not for legal use
