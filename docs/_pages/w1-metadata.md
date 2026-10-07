@@ -1,6 +1,6 @@
 ---
 title: "Workflow #1 Metadata"
-permalink: /docs/workflow-1/metadata
+permalink: /docs/workflow-1/metadata/
 layout: single
 ---
 - `Title`: NH State Senate Bounaries 
