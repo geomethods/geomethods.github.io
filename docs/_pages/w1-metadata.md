@@ -3,10 +3,12 @@ title: "Workflow #1 Metadata"
 permalink: /docs/workflow-1/metadata/
 layout: single
 ---
+
+# Item 1
 - `Title`: NH State Senate Bounaries 
 - `Abstract`: Brief description of the data source
 - `Spatial Coverage`: State of New Hampshire
-- `Spatial Resolution`: Specify the spatial resolution as a scale factor, description of the level of detail of each unit of observation (including administrative level of administrative areas), and/or or distance of a raster GRID size
+- `Spatial Resolution`: 
 - `Spatial Representation Type`: Vector Polygon
 - `Spatial Reference System`: Specify the geographic or projected coordinate system for the study
 - `Temporal Coverage`: 2022
