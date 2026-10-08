@@ -7,6 +7,8 @@ main:
       - title: "Worflow #1"
         url: docs/workflow-1/
   - title: "Learn more"
+  - title: "Literature"
+    url: /lit/
   - title: Tags
     url: /tags/
 
