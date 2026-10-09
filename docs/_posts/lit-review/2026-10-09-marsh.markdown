@@ -1,0 +1,14 @@
+---
+layout: single
+title:  "Geospatial Concept Understanding and Recognition in G6-College Students: A Preliminary Argument for Minimal GIS"
+date:   2026-10-09 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+In this article by Marsh et al. in the Annals of the Association of American Geographers, they argue against buttonology in GIS education, instead promoting Minimal GIS. When teaching GIS, it can be easy to slip into the form of just teaching which button to press, instead of the concepts behind a given tool. They further argue that GIS is a tool, much like a calculator, and that it is only as useful as one's conceptual understanding of spatial analysis. They also find that a student's topical knowledge of spatial relationships is largely incidental, emphasizing the importance of teaching this material in introductory GIS courses. 
+
+Avoiding buttonology in the crosswalk will be difficult, but essential in creating a useful tool for educators and learners alike. Incorporating Minimal GIS and explaining each workflow outside the context of GIS tools will hopefully help learners grasp concepts before comparing workflows across platforms. 
+
+Marsh, M., Golledge, R., & Battersby, S. E. (2007). Geospatial concept understanding and recognition in G6-college students: A preliminary argument for minimal GIS. Annals of the Association of American Geographers, 97(4), 696-712. https://doi.org/10.1111/j.1467-8306.2007.00578.x 
+
