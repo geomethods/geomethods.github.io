@@ -3,10 +3,8 @@ main:
     url: /about/
   - title: "Workflows"
     url: /workflows/
-    children:
-      - title: "Worflow #1"
-        url: docs/workflow-1/
   - title: "Learn more"
+    url: /learnmore/
   - title: "Literature"
     url: /lit/
   - title: Tags
