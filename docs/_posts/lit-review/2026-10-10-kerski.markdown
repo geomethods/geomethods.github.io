@@ -1,0 +1,15 @@
+---
+layout: single
+title:  "The Implementation and Effectiveness of Geographic Information Systems Technology and Methods in Secondary Education"
+date:   2026-10-10 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+In this article, Kerski discusses the reasons why more secondary schools have not incorporated GIS into their curriculums. Through a survey of High School Teachers who used GIS, he was able to get a better understanding of the difficulties of teaching GIS below the Post-Secondary level. From this survey, the main takeaway was that GIS education at this level was primarily motivated by the individual efforts of educators. He further concludes that for GIS education at this level to be effective, a more robust curriculum needs to be created to support these efforts.
+
+Kerski's conclusions support the creation of a crosswalk to some extent. The crosswalk could be used to support curriculum at any level, but likely more effectively in a post secondary institution. Furthermore, the lack of geographic education at the secondary level supports the conclusion of Marsh et al. (2007) that the geographic knowledge of students going into college is less than optimal. This underscores the importance of incorporating basic geographic concepts into the crosswalk to support both learning and geographic education.
+
+Kerski, J. J. (2003). The implementation and effectiveness of geographic information systems technology and methods in secondary education. Journal of Geography, 102(3), 128–137. https://doi.org/10.1080/00221340308978534 
+
+
