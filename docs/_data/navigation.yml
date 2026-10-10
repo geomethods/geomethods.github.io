@@ -2,7 +2,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Workflows"
-    url: /workflows/
+    url: /workflow/
   - title: "Learn more"
     url: /learnmore/
   - title: "Literature"
