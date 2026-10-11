@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "Development of critical spatial thinking through GIS learning"
+date:   2026-10-11 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+In this article in the Journal of Geography in Higher Education, Kim and Bedarz evaluate the extent to which GIS education improves one's critical spatial thinking skills. Broadly speaking, critical spatial thinking is the ability to assess spatial data and use it to solve a problem. This is a skill that is beneficial to media literacy, active citizenship, and education at large, making it important to understand and track. Through a comprehensive oral test, they found that GIS education improves critical spatial thinking skills, underscoring its importance in curriculums around the world. 
+
+This article highlights the importance of GIS education. Although the fact that studying GIS improves one's spatial reasoning skills is not a terribly surprising result, it provides support for the existence of these courses. Thus, under this rationale, building tools to support GIS education is a worthwhile pursuit, providing justification for the creation of the crosswalk. 
+
+Kim, M., & Bednarz, R. (2013). Development of critical spatial thinking through GIS learning. Journal of Geography in Higher Education, 37(3), 350-366. https://doi.org/10.1080/03098265.2013.769091 
+
+
+

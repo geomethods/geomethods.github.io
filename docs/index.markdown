@@ -4,11 +4,11 @@
 
 layout: single
 ---
-
 #### Hello Geographers! Before using this site, please read How to use site below 
+{% include figure popup=true image_path="/assets/images/crosswalk_ex.jpg" alt="Alt text" %} 
 ## How to use this site
 
-General Workflow Information is located on the left. To navigate to a specific site for a workflow, see the `Workflow Site` tab. If you want to see some of the supporting literature behind each this site, see the [Literature](/lit/) tab on the masthead. For information about site collaborators, see [About](/about/). Below is the Rationale for the creation of this site.
+General Workflow Information is located on the left. To navigate to a specific site for a workflow, see the [Workflow](/workflow/) tab on the masthead or the Workflow Site tab on the left. If you want to see some of the supporting literature behind each this site, see the [Literature](/lit/) tab on the masthead. For information about site collaborators, see [About](/about/). Below is the Rationale for the creation of this site.
 
 ## Rationale
 
