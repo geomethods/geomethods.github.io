@@ -10,7 +10,7 @@ In this article in the Journal of Geography in Higher Education, Kim and Bedarz 
 
 This article highlights the importance of GIS education. Although the fact that studying GIS improves one's spatial reasoning skills is not a terribly surprising result, it provides support for the existence of these courses. Thus, under this rationale, building tools to support GIS education is a worthwhile pursuit, providing justification for the creation of the crosswalk. 
 
-Kim, M., & Bednarz, R. (2013). Development of critical spatial thinking through GIS learning. Journal of Geography in Higher Education, 37(3), 350-366. https://doi.org/10.1080/03098265.2013.769091 
+Kim, M., & Bednarz, R. (2013). Development of critical spatial thinking through GIS learning. Journal of Geography in Higher Education, 37(3), 350-366. [https://doi.org/10.1080/03098265.2013.769091](https://doi.org/10.1080/00221340308978534 )
 
 
 

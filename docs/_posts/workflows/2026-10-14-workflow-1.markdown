@@ -1,0 +1,13 @@
+---
+layout: single
+title:  "Workflow #1: Area Weighted Re-Aggregation in New Hampshire"
+header:
+  teaser: /assets/images/Senate-Map.png
+date:   2026-10-13 11:44:00 -0400
+tags:
+ - workflow
+---
+{% include figure popup=true image_path="/assets/images/Senate-Map.png" alt="error" caption="NH State Senate Map" %} 
+#### Workflow #1: Area Weighted Re-Aggregation in New Hampshire
+[Workflow #1](https://geomethods.github.io/awr/) covers Area Weighted Re-Aggregation(AWR)(aka Areal Interpolation) of New Hampshire Senate Districts and Census Tracts. Like many states across the Country, NH has significant partisan gerrymandering. However, the impacts of this aren't clear without an examination of demographics of impacted areas. Since the NH Senate Districts do not have this data attached to them, we have to glean it from another data source using AWR (in this case Census Tracts). Click [HERE](https://geomethods.github.io/awr/) to go to the full site.
+

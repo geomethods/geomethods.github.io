@@ -7,25 +7,26 @@ main:
     url: /learnmore/
   - title: "Literature"
     url: /lit/
-  - title: Tags
-    url: /tags/
+  - title: Posts
+    url: /post/
 
-docs:
-  - title: "Home"
-    url: /
-    children:
+
+#docs:
+  #- title: "Home"
+   # url: /
+  #  children:
       #- title: "Development Updates"
       #  url: /dev_updates/
-      - title: "Update #1"
-        url: /dev_update/update-1/
-  - title: "Workflow 1"
-    children:
-      - title: "Set Up and Context"
-        url: docs/workflow-1/setup/
-      - title: "Metadata"
-        url: docs/workflow-1/metadata/
-      - title: "Workflow site"
-        url: "https://geomethods.github.io/awr/"
+    #  - title: "Update #1"
+    #    url: /dev_update/update-1/
+#  - title: "Workflow 1"
+ #   children:
+ #     - title: "Set Up and Context"
+ #       url: docs/workflow-1/setup/
+ #     - title: "Metadata"
+ #       url: docs/workflow-1/metadata/
+ #     - title: "Workflow site"
+  #      url: "https://geomethods.github.io/awr/"
   
 
 

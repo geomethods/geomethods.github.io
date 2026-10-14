@@ -11,4 +11,4 @@ In this article by Jeff Howarth in Cartographic Perspectives, Howarth uses the e
 
 Howarth's article provides substantial framing for what the crosswalk is attempting to do. Providing learners with a worked example of a workflow on a platform they know aids the learner in understanding how to accomplish the same workflow in the second platform, assuming they understand the conceptual steps being taken. Thus, it will be important to utilize Minimal GIS concepts and thoroughly explain what a workflow is doing to help the learning process. 
 
-Howarth, J. (2015). Learning by solving problems:   Cognitive load theory and the re-design of an introductory GIS course. Cartographic Perspectives, (80), 18-34. https://doi.org/10.14714/cp80.1320 
+Howarth, J. (2015). Learning by solving problems:   Cognitive load theory and the re-design of an introductory GIS course. Cartographic Perspectives, (80), 18-34. [https://doi.org/10.14714/cp80.1320](https://doi.org/10.14714/cp80.1320)

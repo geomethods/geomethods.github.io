@@ -12,4 +12,4 @@ In this article by Howarth and Sinton in Social and Behavioral Sciences, they di
 Incorporating PBL in the context of the Methods Crosswalk would not be too difficult, but it is not the focus of the site. If time allows, providing an analogous task on each workflow site would give people the opportunity to enhance their learning through solving problems; however it is not an essential part of this construction of the site.
 
 Howarth, J. T., & Sinton, D. (2011). Sequencing spatial concepts in problem-based GIS 
-instruction. Procedia - Social and Behavioral Sciences, 21, 253-259. https://doi.org/10.1016/j.sbspro.2011.07.042 
+instruction. Procedia - Social and Behavioral Sciences, 21, 253-259.[https://doi.org/10.1016/j.sbspro.2011.07.042](https://doi.org/10.1016/j.sbspro.2011.07.042 )
