@@ -11,7 +11,9 @@ main:
     url: /post/
 
 
-#docs:
+docs:
+  - title: "Workflow #1: AWR"
+    url: "https://geomethods.github.io/awr/"
   #- title: "Home"
    # url: /
   #  children:
