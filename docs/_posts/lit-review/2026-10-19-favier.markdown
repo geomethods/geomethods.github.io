@@ -1,0 +1,15 @@
+---
+layout: single
+title:  "The Effects of Geography Lessons with Geospatial Technologies on the Development of High School students' Relational Thinking."
+date:   2026-10-19 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+In this article from Favier and Schee, they show that incorporating geospatial technology into lesson planning improves geospatial relational thinking. They find that geospatial technology has several advantages over traditional paper maps when it comes to education, such as the ability to have several layers on at the same time, tinker with the range of data shown , and the ability to incorporate animations and charts to help students better understand the relationships present. By teaching different lesson plans to two groups of students, they were able to confirm the importance of technology in geospatial education. 
+Favier and Schee highlight the importance of technology in geographic education. By creating a crosswalk, one can compare and contrast workflows across platforms, giving a student more bang for their buck and possibly improving their educational experience.
+Favier, T. T., & van der Schee, J. A. (2014). The effects of geography lessons with geospatial technologies on the development of high school students' relational thinking. Computers &amp; Education, 76, 225-236. [https://doi.org/10.1016/j.compedu.2014.04.004](https://doi.org/10.1016/j.compedu.2014.04.004)
+
+
+
+

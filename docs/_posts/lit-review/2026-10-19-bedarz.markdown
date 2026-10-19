@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "What Improves Spatial Thinking? Evidence from the Spatial Thinking Abilities Test"
+date:   2026-10-19 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+By exploring the results of the Spatial Thinking Abilities test, Bedarz and Lee are able to identify methods that improve spatial thinking and geographic education. They find that GIS learning was associated with improved spatial thinking scores across age and gender. Overall, the higher exposure one has to geospatial thinking and geographic education leads to a better ability to intuit spatial reasoning. They also found that socioeconomic status and ethnicity in the US were significant predictors of an undergraduate's spatial thinking. 
+
+The presence of a socioeconomic gap in geographic education that has a tangible impact on spatial thinking makes the creation of resources like the Geospatial Methods Crosswalk important. By improving access to open source educational resources, particularly in the realm of GIS, this gap can begin to close, supporting the creation of a tool like the crosswalk.
+
+Bednarz, R., & Lee, J. (2019). What improves spatial thinking? evidence from the Spatial Thinking Abilities Test. International Research in Geographical and Environmental Education, 28(4), 262–280. [https://doi.org/10.1080/10382046.2019.1626124](https://doi.org/10.1080/10382046.2019.1626124)
+
+
+
