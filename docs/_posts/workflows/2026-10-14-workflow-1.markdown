@@ -2,7 +2,7 @@
 layout: single
 title:  "Workflow #1: Area Weighted Re-Aggregation in New Hampshire"
 header:
-  teaser: /assets/images/Senate-Map.png
+  teaser: /assets/images/Senate Map final.png
 date:   2026-10-13 11:44:00 -0400
 tags:
  - workflow
