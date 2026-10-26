@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "Spatial Thinking Assists Geographic Thinking: Evidence from a Study Exploring the Effects of Geospatial Technology Relational Thinking."
+date:   2026-10-26 00:00:00 -0400
+category: lit_review
+tags:
+ - lit_review
+---
+This article by Metoyer and Bednarz examines the impact of using geospatial technology (GST) on high school students' geographic knowledge. By testing students who both had and did not have a background in GST, they found that the students who knew how to use GST demonstrated a greater gain in geographic content knowledge than those who only used paper maps, showing GST's effectiveness at teaching these topics. Furthermore, they also found that using GST was most effective with students who already had well developed spatial skills, highlighting the importance of having a solid theoretical framework before learning GIS.
+
+GST improves geographic knowledge while simultaneously requiring a background in geographic knowledge to be effectively learned. This presents a challenge to educators, as students come into an Intro GIS course with a vast array of geographic backgrounds, particularly given it's not a focus of a lot of high school curriculums. As a result of this, it is important that each workflow have a substantial conceptual guide to aid users who are less familiar with geospatial terms, hopefully helping them improve their understanding before diving into specific tools.
+
+Metoyer, S., & Bednarz, R. (2017) Spatial Thinking Assists Geographic Thinking: Evidence from a Study Exploring the Effects of Geospatial Technology, Journal of Geography, 116:1, 20-33, DOI: [https://10.1080/00221341.2016.1175495](10.1080/00221341.2016.1175495)
+
+
+
