@@ -1,0 +1,12 @@
+---
+layout: single
+title: "Teaching Geographical Information Systems in Geography Degrees: A Critical Reassessment of Vocationalism."
+date: 2026-10-26 00:00:00 -0400
+category: lit_review
+tags:
+  - lit_review
+---
+This article tackles the challenges of teaching GIS in ways that are practical in professional settings. Although GIS has immense perceived vocational value in geographic spaces, the practicality of teaching the subject vocationally complicates GIS education.Through a survey of students who had taken GIS courses in the UK, they found that 63 percent of students found some career value in taking a GIS course, and the most appreciated parts of the curriculum were often the most practical - such as projects and the application of geographic theory. However, since not all students who take GIS will go on to be GIS professionals, designing a curriculum to be purely vocational is not necessarily the way to go either.
+
+The difficulties of vocational education made the existence of resources like The Crosswalk important, as it is difficult to learn all of the nuances of any geospatial platform in a single semester. Part of the value of this site is that it fills gaps for those who are curious enough to learn, and lowers the cognitive load of doing so. It is difficult to thoroughly learn gis on one platform; it can be hard to transfer those skills to another; but The Crosswalk will at least make it easier. 
+Duncan Whyatt, Gordon Clark & Gemma Davies (2011) Teaching Geographical Information Systems in Geography Degrees: A Critical Reassessment of Vocationalism, Journal of Geography in Higher Education, 35:2, 233-244, DOI: [10.1080/03098265.2010.524198](https://doi.org/10.1080/03098265.2010.524198)

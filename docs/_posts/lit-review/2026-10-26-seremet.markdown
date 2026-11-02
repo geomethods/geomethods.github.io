@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Student perspectives on the teaching of geographical information systems (GIS) in geography degrees"
-date:   2026-10-26 00:00:00 -0400
+title: "Student perspectives on the teaching of geographical information systems (GIS) in geography degrees"
+date: 2026-10-26 00:00:00 -0400
 category: lit_review
 tags:
- - lit_review
+  - lit_review
 ---
 This article  by Mehmet Seremet and Brian Chalkley evaluates students' levels of satisfaction in GIS courses and offers suggestions for where improvements could be made. After collecting data through a questionnaire across multiple institutions in the United Kingdom, they found that for 90% of students, GIS did not play a large role in their decision to study geography. The most notable factor that pushed students to learn GIS was employability, with 34% of students citing that as their reason for employment in the class. Students also found that practical computer exercises were the most valuable part of GIS class, with them enjoying the practical application of geographic theory into practice. 
 

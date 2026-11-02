@@ -1,0 +1,17 @@
+---
+layout: single
+title: "The Impact of Paper Versus Digital Map Technology on Students' Spatial Thinking Skill Acquisition"
+date: 2026-10-26 00:00:00 -0400
+category: lit_review
+tags:
+  - lit_review
+---
+This article by Larianne Collins discusses educational outcomes associated with different forms of instructional media. Although there is near universal agreement that geographic education has slipped at the secondary level and requires more attention, there is debate as to what form this education should take: digital or analog. They found that students exposed to all types of geospatial material saw an improvement in spatial thinking; no form of material was considerably better than the other when it comes to geospatial education.
+Exposure to all types of geographic media improves educational outcomes, making the creation of open source tools and educational resources critical. The Geospatial Methods Crosswalk can serve as such a resource, making its creation valuable to educators and learners alike.
+Larianne Collins (2018) The Impact of Paper Versus Digital Map Technology on Students' Spatial Thinking Skill Acquisition, Journal of Geography, 117:4, 137-152, DOI: [10.1080/00221341.2017.1374990](https://doi.org/10.1080/00221341.2017.1374990)
+
+
+
+
+
+
