@@ -7,7 +7,7 @@ tags:
  - lit_review
 ---
 
-In this article by Howarth and Sinton in Social and Behavioral Sciences, they discuss the importance of problem based learning (PBL) in GIS. Given the prevalence of GIS textbooks and online materials, one of the main roles of a GIS instructor has evolved into the teaching of the material; they advocate for incorporating PBL into GIS instruction to an extent. PBL provides students with a general problem and unclear outcome, letting them work towards a solution independently. The multistep nature and intrinsic complexity of GIS often makes this difficult, reserving this technique for learners further along on their GIS journey, with worked examples being better for newer learners.
+In this article by Howarth and Sinton in Social and Behavioral Sciences, they discuss the importance of problem based learning (PBL) in GIS. Given the prevalence of GIS textbooks and online materials, one of the main roles of a GIS instructor has evolved into the teaching of the material; they advocate for incorporating PBL into GIS instruction to an extent. PBL provides students with a general problem and unclear outcome, letting them work towards a solution independently. The multi-step nature and intrinsic complexity of GIS often makes this difficult, reserving this technique for learners further along on their GIS journey, with worked examples being better for newer learners.
 	
 Incorporating PBL in the context of the Methods Crosswalk would not be too difficult, but it is not the focus of the site. If time allows, providing an analogous task on each workflow site would give people the opportunity to enhance their learning through solving problems; however it is not an essential part of this construction of the site.
 
